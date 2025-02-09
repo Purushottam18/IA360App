@@ -27,12 +27,10 @@ DerivedData
 build/
 .idea
 .gradle
-local.properties
 *.iml
 *.hprof
 .cxx/
-*.keystore
-!debug.keystore
+service-account.json
 
 # node.js
 #
